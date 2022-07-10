@@ -2,6 +2,12 @@
 a simple python script to check the prices difference between the black market and the caerleon market.
 
 
+TO MAKE IT WORK :
+first lauch the request_prices.py wait for the processing , when it's done lauch the json_analyzer_1.py
+
+
+
+
 
 
 The script check basically for the quality 1 if you want to change it :
